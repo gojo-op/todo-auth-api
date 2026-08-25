@@ -1,0 +1,6 @@
+.env
+*.db
+tmp/
+bin/
+api
+coverage.out
